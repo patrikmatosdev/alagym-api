@@ -37,7 +37,7 @@ module.exports =  function(req, res) {
         id: 3,
         type: '',
         title: 'Remada Curvada',
-        machine: 'maq. 32',
+        machine: 'Barra Reta',
         colors: '',
         series: {
           serie: 3,
@@ -53,7 +53,7 @@ module.exports =  function(req, res) {
         id: 4,
         type: '',
         title: 'Rosca Scott ( barra W )',
-        machine: 'maq. 32',
+        machine: 'maq. 54',
         colors: '',
         series: {
           serie: 3,
@@ -69,7 +69,7 @@ module.exports =  function(req, res) {
         id: 5,
         type: '',
         title: 'Rosca Direta ( barra reta ) ',
-        machine: 'maq. 32',
+        machine: 'Barra reta',
         colors: '',
         series: {
           serie: 3,
@@ -85,7 +85,7 @@ module.exports =  function(req, res) {
         id: 6,
         type: '',
         title: 'Crucifixo Inverso ( Máquina ) ',
-        machine: 'maq. 32',
+        machine: 'maq. 26',
         colors: '',
         series: {
           serie: 3,

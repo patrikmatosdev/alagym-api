@@ -3,9 +3,12 @@
   "description": "Api que retorna lista de exercícios.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +23,6 @@
   "homepage": "https://github.com/patrikdev/alagym-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "nodemon": "^2.0.2"
+    "express": "^4.17.1"
   }
 }

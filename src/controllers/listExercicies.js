@@ -4,6 +4,102 @@ module.exports =  function(req, res) {
       {
         id: 1,
         type: '',
+        title: 'Puxada máquina',
+        machine: 'maq. 32',
+        colors: '',
+        series: {
+          serie: 3,
+          repetitions: 12,
+        },
+        media: {
+          img: null,
+          video: null
+        }
+      },
+
+      {
+        id: 2,
+        type: '',
+        title: 'Serrátil ( pull down ) corda',
+        machine: 'maq. 62',
+        colors: '',
+        series: {
+          serie: 3,
+          repetitions: 12,
+        },
+        media: {
+          img: null,
+          video: null
+        }
+      },
+
+      {
+        id: 3,
+        type: '',
+        title: 'Remada Curvada',
+        machine: 'Barra Reta',
+        colors: '',
+        series: {
+          serie: 3,
+          repetitions: 12,
+        },
+        media: {
+          img: null,
+          video: null
+        }
+      },
+
+      {
+        id: 4,
+        type: '',
+        title: 'Rosca Scott ( barra W )',
+        machine: 'maq. 54',
+        colors: '',
+        series: {
+          serie: 3,
+          repetitions: 12,
+        },
+        media: {
+          img: null,
+          video: null
+        }
+      },      
+
+      {
+        id: 5,
+        type: '',
+        title: 'Rosca Direta ( barra reta ) ',
+        machine: 'Barra reta',
+        colors: '',
+        series: {
+          serie: 3,
+          repetitions: 12,
+        },
+        media: {
+          img: null,
+          video: null
+        }
+      },
+
+      {
+        id: 6,
+        type: '',
+        title: 'Crucifixo Inverso ( Máquina ) ',
+        machine: 'maq. 26',
+        colors: '',
+        series: {
+          serie: 3,
+          repetitions: 12,
+        },
+        media: {
+          img: null,
+          video: null
+        }
+      },
+
+      {
+        id: 7,
+        type: '',
         title: 'Leg Press 45',
         machine: 'maq. 09',
         colors: '',
@@ -18,7 +114,7 @@ module.exports =  function(req, res) {
       },
 
       {
-        id: 2,
+        id: 8,
         type: '',
         title: 'Mesa Flexora',
         machine: 'maq. 10',
@@ -34,7 +130,7 @@ module.exports =  function(req, res) {
       },
 
       {
-        id: 3,
+        id: 9,
         type: '',
         title: 'Stiff Barra',
         machine: 'Barra Reta',
@@ -50,7 +146,7 @@ module.exports =  function(req, res) {
       },
 
       {
-        id: 4,
+        id: 10,
         type: '',
         title: 'Afundo',
         machine: 'Halteres',
@@ -66,7 +162,7 @@ module.exports =  function(req, res) {
       },      
 
       {
-        id: 5,
+        id: 11,
         type: '',
         title: 'Cadeira Abdutora ',
         machine: 'maq. 04',
@@ -82,7 +178,7 @@ module.exports =  function(req, res) {
       },
 
       {
-        id: 6,
+        id: 12,
         type: '',
         title: 'Cadeira Adutora',
         machine: 'maq. 05',
@@ -98,7 +194,7 @@ module.exports =  function(req, res) {
       },
 
       {
-        id: 7,
+        id: 13,
         type: '',
         title: 'Agachamento',
         machine: 'Halteres',
@@ -113,7 +209,7 @@ module.exports =  function(req, res) {
         }
       },
       {
-        id: 8,
+        id: 14,
         type: '',
         title: 'Abdominal Twist',
         machine: 'Bola',

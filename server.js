@@ -1,4 +1,4 @@
-const ctlListExercicies = require('./src/controllers/listExercicies');
+const ctlListExercises = require('./src/controllers/listExercises');
 
 const express = require('express');
 const cors = require('cors');
@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
   })
 })
 
-app.get('/exercicies', ctlListExercicies);
+app.get('/exercises', ctlListExercises);
 
 app.listen(3030, function(){
   console.log('App is running on port 3030');

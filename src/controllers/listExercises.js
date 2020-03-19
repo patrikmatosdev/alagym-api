@@ -12,7 +12,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -28,7 +28,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -44,7 +44,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -60,7 +60,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },      
@@ -76,7 +76,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -92,7 +92,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -108,7 +108,7 @@ module.exports =  function(req, res) {
           repetitions: 10,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -124,7 +124,7 @@ module.exports =  function(req, res) {
           repetitions: 10,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -140,7 +140,7 @@ module.exports =  function(req, res) {
           repetitions: 10,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -156,7 +156,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },      
@@ -172,7 +172,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -188,7 +188,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -204,7 +204,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },
@@ -219,7 +219,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: null,
+          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
           video: null
         }
       },

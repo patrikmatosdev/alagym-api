@@ -1,3 +1,4 @@
+
 module.exports =  function(req, res) {
   res.json(
     [
@@ -28,7 +29,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://i.ytimg.com/vi/O9LN-PCW7GA/maxresdefault.jpg',
           video: null
         }
       },
@@ -44,7 +45,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://i.ytimg.com/vi/5GNyU928aFc/maxresdefault.jpg',
           video: null
         }
       },
@@ -76,7 +77,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://i.ytimg.com/vi/e6kNQ445sic/maxresdefault.jpg',
           video: null
         }
       },
@@ -92,7 +93,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://i.ytimg.com/vi/T_vJXGeDLyE/maxresdefault.jpg',
           video: null
         }
       },
@@ -108,7 +109,7 @@ module.exports =  function(req, res) {
           repetitions: 10,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://www.mundoboaforma.com.br/wp-content/uploads/2015/09/leg-454.jpg',
           video: null
         }
       },
@@ -124,7 +125,7 @@ module.exports =  function(req, res) {
           repetitions: 10,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://conteudo.imguol.com.br/c/entretenimento/a4/2019/11/18/mesa-flexora-1574088009594_v2_900x506.jpg',
           video: null
         }
       },
@@ -140,7 +141,7 @@ module.exports =  function(req, res) {
           repetitions: 10,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://1.bp.blogspot.com/-XS4rZgPTDS0/W_VoNOG-ZVI/AAAAAAAAFD0/pUKSDUI2OZ43fYbPQgxhO_-fM9oKDhkIgCLcBGAs/s1600/romanian-deadlift.jpg',
           video: null
         }
       },
@@ -148,7 +149,7 @@ module.exports =  function(req, res) {
       {
         id: 10,
         type: '',
-        title: 'Afundo',
+        title: 'Afundo com Halter',
         machine: 'Halteres',
         colors: '',
         series: {
@@ -156,7 +157,7 @@ module.exports =  function(req, res) {
           repetitions: 12,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://i.ytimg.com/vi/6Zz_RG0EHFE/maxresdefault.jpg',
           video: null
         }
       },      
@@ -164,7 +165,7 @@ module.exports =  function(req, res) {
       {
         id: 11,
         type: '',
-        title: 'Cadeira Abdutora ',
+        title: 'Cadeira Abdutora',
         machine: 'maq. 04',
         colors: '',
         series: {
@@ -172,7 +173,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://s3.amazonaws.com/prod.skimble/assets/1683517/image_iphone.jpg',
           video: null
         }
       },
@@ -188,7 +189,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://eliminandoumkiloporvez.files.wordpress.com/2013/05/cadeira-adutora.png',
           video: null
         }
       },
@@ -196,7 +197,7 @@ module.exports =  function(req, res) {
       {
         id: 13,
         type: '',
-        title: 'Agachamento',
+        title: 'Agachamento com Halter',
         machine: 'Halteres',
         colors: '',
         series: {
@@ -204,7 +205,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://i.ytimg.com/vi/taK1dUUT2_I/maxresdefault.jpg',
           video: null
         }
       },
@@ -219,7 +220,7 @@ module.exports =  function(req, res) {
           repetitions: 15,
         },
         media: {
-          img: 'https://i.ytimg.com/vi/OQnAVmURJ60/maxresdefault.jpg',
+          img: 'https://www.clube-fitness.com//generated_files/treino-para-tonificar-a-bariga2.jpg',
           video: null
         }
       },
